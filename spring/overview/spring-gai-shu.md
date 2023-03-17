@@ -1,10 +1,10 @@
-# 💡 What we do
+# 💡 Spring 概述
 
-Spring makes it easy to create Java enterprise applications. It provides everything you need to embrace the Java language in an enterprise environment, with support for Groovy and Kotlin as alternative languages on the JVM, and with the flexibility to create many kinds of architectures depending on an application’s needs. As of Spring Framework 5.1, Spring requires JDK 8+ (Java SE 8+) and provides out-of-the-box support for JDK 11 LTS. Java SE 8 update 60 is suggested as the minimum patch release for Java 8, but it is generally recommended to use a recent patch release.
+Spring使创建Java企业应用程序变得容易。它提供了在企业环境中采用Java语言所需的一切，支持Groovy和Kotlin作为JVM上的替代语言，并具有根据应用程序的需要创建多种体系结构的灵活性。从Spring Framework 5.1开始，Spring需要JDK 8+（Java SE 8+），并提供对JDK 11 LTS的开箱即用支持。建议Java SE 8更新60作为Java 8的最低补丁版本，但通常建议使用最近的补丁版本。
 
-Spring supports a wide range of application scenarios. In a large enterprise, applications often exist for a long time and have to run on a JDK and application server whose upgrade cycle is beyond developer control. Others may run as a single jar with the server embedded, possibly in a cloud environment. Yet others may be standalone applications (such as batch or integration workloads) that do not need a server.
+Spring 支持广泛的应用场景。在大型企业中，在大型企业中，应用程序通常存在很长时间，必须在JDK和应用程序服务器上运行，其升级周期超出开发人员的控制范围。其他人可能作为嵌入服务器的单个jar运行， 可能在云环境中。还有一些可能是独立的应用程序（例如批处理 或不需要服务器的集成工作负载。
 
-Spring is open source. It has a large and active community that provides continuous feedback based on a diverse range of real-world use cases. This has helped Spring to successfully evolve over a very long time.
+Spring 是开源的。它拥有一个庞大而活跃的社区，可以根据各种各样的实际用例提供持续的反馈。这帮助 Spring 在很长一段时间内成功地进化。
 
 ### 1. What We Mean by "Spring"
 
