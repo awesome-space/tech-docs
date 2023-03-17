@@ -1,8 +1,10 @@
+---
+description: version 5.3.25
+---
+
 # 👋 Spring 官方文档翻译
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+> 英文水平有限，如果有不对之处可以联系我修改
 
 ## Overview
 
