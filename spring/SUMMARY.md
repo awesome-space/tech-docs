@@ -4,8 +4,7 @@
 
 ## Overview
 
-* [💡 Spring 概述](overview/spring-gai-shu.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Spring 概述](overview/what-we-do.md)
 
 ## Product Guides
 
